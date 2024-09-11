@@ -1,0 +1,14 @@
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/obj/Debug/net8.0/TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/obj/Debug/net8.0/TemperatureConverter.AssemblyInfoInputs.cache
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/obj/Debug/net8.0/TemperatureConverter.AssemblyInfo.cs
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/obj/Debug/net8.0/TemperatureConverter.csproj.CoreCompileInputs.cache
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/bin/Debug/net8.0/TemperatureConverter
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/bin/Debug/net8.0/TemperatureConverter.deps.json
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/bin/Debug/net8.0/TemperatureConverter.runtimeconfig.json
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/bin/Debug/net8.0/TemperatureConverter.dll
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/bin/Debug/net8.0/TemperatureConverter.pdb
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/obj/Debug/net8.0/TemperatureConverter.dll
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/obj/Debug/net8.0/refint/TemperatureConverter.dll
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/obj/Debug/net8.0/TemperatureConverter.pdb
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/obj/Debug/net8.0/TemperatureConverter.genruntimeconfig.cache
+/Users/jackpalmstrom/Documents/Development/TemperatureConverter/TemperatureConverter/obj/Debug/net8.0/ref/TemperatureConverter.dll
